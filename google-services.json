@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116374874844",
+    "project_id": "chain-spirit"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116374874844:android:a39274eed761a200",
+        "android_client_info": {
+          "package_name": "thescone.chainspiritform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116374874844-arc82nmdj9hki7iusfevhpis3nspse7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thescone.chainspiritform",
+            "certificate_hash": "BE45031EA8FF4EE0399ECD2C493897FA86C2BE3C"
+          }
+        },
+        {
+          "client_id": "116374874844-3ckfrfbjoed4vasa5cnvdjqt92h3qag1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxypQ6uM-R1GzeaTu84QTo7t3-lLZeoL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
